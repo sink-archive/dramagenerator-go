@@ -1,0 +1,26 @@
+package main
+
+var languages = []string{
+	"JavaScript",
+	"TypeScript",
+	"Python",
+	"Java",
+	"Kotlin",
+	"Rust",
+	"Perl",
+	"PHP",
+	"Zig",
+	"Nim",
+	"Vlang",
+	"Go",
+	"CSS",
+	"Lua",
+	"HTML",
+	"F#",
+	"C#",
+	"C++",
+	"C",
+	"HolyC",
+	"Assembly",
+	"Scratch",
+}
