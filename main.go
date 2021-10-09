@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"math"
 	"math/rand"
 	"os"
@@ -17,7 +18,7 @@ func main() {
 
 	if len(os.Args) <= 2 || os.Args[2] != "-noprint" {
 		for _, str := range phrases {
-			println(str)
+			fmt.Println(str)
 		}
 	}
 }
